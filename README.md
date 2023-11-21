@@ -1,6 +1,5 @@
-<h1>⛩こんにちは⛩</h1>
+<h1>3301</h1>
 
-<p>Welcome!</p>
 <p>I'm Yuri, Front-end developer from <b>Tallinn, Estonia</b> <img height="12" src="https://www.worldometers.info/img/flags/en-flag.gif" /></p>
 
 <h3>My Toolbox</h3>
