@@ -15,4 +15,4 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-<p align="center">© Yuri 2023</p>
+<p align="center">© Yuri 2025</p>
